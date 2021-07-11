@@ -1,0 +1,149 @@
+body {
+    width: 1000px;
+    height: 900px;
+    background: #39495E;
+}
+
+
+.Main-Header{
+    
+    width: 233px;
+    height: 52px;
+    padding-left: 15px;
+    position: relative;
+    text-align: left;
+    font: normal normal bold 39px/52px Futura PT;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+   
+}
+.Main-Header1{
+    
+    width: 235px;
+    height: 50px;
+
+    padding-left: 643px;
+    position:relative;
+    
+    
+}
+.Main-HeaderText{
+    margin-left: 10px;
+    top: 100px;
+    left: 30px;
+    width: 141px;
+    height: 31px;
+    text-align: left;
+    font: normal normal normal 28px/32px Ubuntu;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.action-grid{
+    margin:20px 20px;
+    top: 160px;
+    left: 20px;
+    width: 1860px;
+    height: 739px;
+    background: #273D49CC 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+}
+#Add{
+    margin-top: 15px;
+    top: 190px;
+    margin-left: 1126px;
+    width: 99px;
+    height: 45px;
+    border: 1px solid #97A1A9;
+    background-color:transparent;
+    border-radius:10px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font:normal normal normal 28px/32px Ubuntu;
+    font-size:16px;
+
+}
+#Edit{
+    top: 190px;
+    left: 1245px;
+    width: 102px;
+    height: 45px;
+    border: 1px solid #97A1A9;
+    background-color:transparent;
+    border-radius:10px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font:normal normal normal 28px/32px Ubuntu;
+    font-size:16px;
+}
+#Delete{
+    top: 190px;
+    left: 1367px;
+    width: 123px;
+    height: 45px;
+    border: 1px solid #97A1A9;
+    background-color:transparent;
+    border-radius:10px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font:normal normal normal 28px/32px Ubuntu;
+    font-size:16px;
+}
+.test{
+    top: 190px;
+    left: 1510px;
+    width: 340px;
+    height: 45px;
+    display:inline-block;
+    background: #283A46 0% 0% no-repeat padding-box;
+    border: 1px solid #14AFF1;
+    border-radius: 10px;
+    text-align: left;
+    font: normal normal normal 18px/21px Ubuntu;
+    letter-spacing: 0px;
+    color: #97A1A9;
+    opacity: 1;
+}
+#main-table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    top: 266px;
+    left: 121px;
+    width: 131px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 18px/21px Ubuntu;
+    letter-spacing: 0px;
+    color: #97A1A9;
+    opacity: 1;
+}
+td{
+    border: 0px solid #dddddd;
+    top: 309px;
+    left: 122px;
+    width: 128px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 20px/24px Ubuntu;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    top: 347px;
+    left: 61px;
+  width: 1800px;
+  height: 50px;
+  background: #283A46 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 1;
+}
